@@ -10,13 +10,13 @@ twitter_username: stanfordtapeandscissors
 github_username:  stanfordtapeandscissors
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
-contact: static
+# contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: CC0000 #80B3FF
-  secondary: 9999FF #FD6E8A
-  secondary-dark: 00FF00 #A2122F
+  primary: 70CB61 #80B3FF
+  secondary: 378621 #FD6E8A
+  secondary-dark: 41A30E #A2122F
 
 # Footer settings
 footer:
@@ -42,7 +42,7 @@ social:
 #   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This website is built off of a Bootstrap layout and hosted on GitHub Pages'
 
 # Build settings
 markdown: kramdown
