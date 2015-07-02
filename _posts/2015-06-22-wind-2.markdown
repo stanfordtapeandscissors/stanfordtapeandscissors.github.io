@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: Wind-2
+date: 2015-06-22
+img: submarine.png
+alt: image-alt
+project-date: June 2015
+client: Start Bootstrap
+category: Web Development
+description: This is going to be the post for the Wind Energy 2 lesson plan.
+---
