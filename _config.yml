@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Stanford Tape and Scissors is a subgroup of Stanford University's
   Solar and Wind Energy Project (SWEP). 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://stanfordtapeandscissors.com" # the base hostname & protocol for your site
+url: "http://stanfordtapeandscissors.github.io" # the base hostname & protocol for your site
 twitter_username: stanfordtapeandscissors
 github_username:  stanfordtapeandscissors
 
@@ -14,9 +14,9 @@ github_username:  stanfordtapeandscissors
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 70CB61 #80B3FF
-  secondary: 378621 #FD6E8A
-  secondary-dark: 41A30E #A2122F
+  primary: 90CDEA #80B3FF
+  secondary: 6077A0 #FD6E8A
+  secondary-dark: 0B1646 #A2122F
 
 # Footer settings
 footer:

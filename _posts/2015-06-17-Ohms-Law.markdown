@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: Ohms-Law
+date: 2015-06-17
+img: circuit.png
+alt: image-alt
+plan: Ohm's Law Workshop.pdf 
+project-date: June 2015
+client: Tape and Scissors
+category: Electricity Fundamentals
+description: This lesson introduces basic circuitry terminology such as voltage, battery, electrical current, and resistance. The activity allows students to gain experience with these components by hand. <br> <a href="lesson_plans/Ohm's Law Workshop.pdf">Ohm's Law Presentation</a> <br> <a href="lesson_plans/OL.Activity.pdf">Ohm's Law Worksheet</a>
+---
