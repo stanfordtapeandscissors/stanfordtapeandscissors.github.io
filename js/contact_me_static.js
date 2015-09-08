@@ -1,5 +1,4 @@
 $(function() {
-    alert('STATIC');
 
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
